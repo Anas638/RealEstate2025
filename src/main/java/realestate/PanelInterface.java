@@ -1,6 +1,8 @@
 package realestate;
 
+/**
+ * Interface for panel-related operations.
+ */
 public interface PanelInterface {
-    boolean hasSameAmount(RealEstate estate);
-    int roomPrice();
+    // No methods here unless every Panel must implement them.
 }

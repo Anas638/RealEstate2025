@@ -1,0 +1,36 @@
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent loadPropertiesFromFile
+INFO: CALL: loadPropertiesFromFile(realestates.txt)
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent loadPropertiesFromFile
+INFO: Added REALSTATE property from file: REALSTATE#Budapest#250000#100#4#CONDOMINIUM
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent loadPropertiesFromFile
+INFO: Added REALSTATE property from file: REALSTATE#Debrecen#220000#120#5#FAMILYHOUSE
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent loadPropertiesFromFile
+INFO: Added REALSTATE property from file: REALSTATE#Nyiregyháza#110000#60#2#FARM
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent loadPropertiesFromFile
+INFO: Added REALSTATE property from file: REALSTATE#Nyiregyháza#250000#160#6#FAMILYHOUSE
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent loadPropertiesFromFile
+INFO: Added REALSTATE property from file: REALSTATE#Kisvárda#150000#50#2#CONDOMINIUM
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent loadPropertiesFromFile
+INFO: Added REALSTATE property from file: REALSTATE#Nyiregyháza#150000#60#4#CONDOMINIUM
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent loadPropertiesFromFile
+INFO: Added PANEL property from file: PANEL#Budapest#180000#70#3#CONDOMINIUM#4#no
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent loadPropertiesFromFile
+INFO: Added PANEL property from file: PANEL#Debrecen#120000#35#2#CONDOMINIUM#0#yes
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent loadPropertiesFromFile
+INFO: Added PANEL property from file: PANEL#Tiszaujváros#120000#70#3#CONDOMINIUM#10#no
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent loadPropertiesFromFile
+INFO: Added PANEL property from file: PANEL#Nyiregyháza#170000#80#3#CONDOMINIUM#7#no
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent outputResults
+INFO: CALL: outputResults(outputRealEstate.txt)
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent averageSqmPrice
+INFO: CALL: averageSqmPrice()
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent outputResults
+INFO: Average price per sqm: 172000.0
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent cheapestProperty
+INFO: CALL: cheapestProperty()
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent outputResults
+INFO: Cheapest property: City: Nyiregyháza, Price/sqm: 110000.0, Area: 60, Rooms: 2.0, Genre: FARM, Total Price: 6600000, Avg sqm/room: 30.00
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent totalPriceAll
+INFO: CALL: totalPriceAll()
+Nov 04, 2025 2:52:24 PM realestate.RealEstateAgent outputResults
+INFO: Total price of all properties: 170796600
