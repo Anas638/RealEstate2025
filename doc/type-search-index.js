@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"realestate","l":"Genre"},{"p":"realestate","l":"Panel"},{"p":"realestate","l":"PanelInterface"},{"p":"realestate","l":"PropertyInterface"},{"p":"realestate","l":"RealEstate"},{"p":"realestate","l":"RealEstateAgent"},{"p":"realestate","l":"RealEstateComparator"}];updateSearchResults();
