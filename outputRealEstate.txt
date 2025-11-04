@@ -1,0 +1,3 @@
+Average price per sqm: 172000.0
+Cheapest property: City: Nyiregyháza, Price/sqm: 110000.0, Area: 60, Rooms: 2.0, Genre: FARM, Total Price: 6600000, Avg sqm/room: 30.00
+Total price of all properties: 170796600
