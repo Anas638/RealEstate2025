@@ -50,13 +50,21 @@ public class RealEstate implements PropertyInterface {
                 ", Avg sqm/room: " + String.format("%.2f", averageSqmPerRoom());
     }
 
-    // Add these getter methods:
+    // Getter methods
     public String getCity() {
         return city;
     }
 
     public double getPrice() {
         return price;
+    }
+
+    public int getSqm() {
+        return sqm;
+    }
+
+    public double getNumberOfRooms() {
+        return numberOfRooms;
     }
 
     public Genre getGenre() {
